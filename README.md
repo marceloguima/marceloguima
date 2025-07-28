@@ -44,7 +44,6 @@ Estou constantemente aprendendo novas tecnologias e buscando melhorar minhas hab
 
 ## 📫 Conecte-se Comigo
 
-Adoraria trocar ideias, colaborar em projetos ou simplesmente bater um papo sobre tecnologia:
 
 - [LinkedIn](https://www.linkedin.com/feed/)  
 - 📧 Email: marceloguimaraesdev@gmail.com 
